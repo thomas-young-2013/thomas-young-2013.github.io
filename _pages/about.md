@@ -9,9 +9,10 @@ redirect_from:
 ---
 
 I am currently a Ph.D. student at Peking University, advised by [Prof. Bin Cui](https://cs.pku.edu.cn/info/1082/1276.htm). I faithfully believe that by making data—along with the processing of data—easily accessible to non-expert users, we have the potential to make the world a better place. My current research focuses on building automatic machine learning systems to support machine learning and help facilitate data science.
-Prior to that, I obtained my bachelor's degree at [Sun Yat-Sen University](http://sysu.edu.cn/en/index.htm). For more information, please check my [CV](https://github.com/thomas-young-2013/thomas-young-2013.github.io/blob/master/files/CV/CV_yangli_2021_june.pdf).
+I have also been closely working with [Prof. Ce Zhang](https://ds3lab.inf.ethz.ch/members/ce-zhang.html), who is my supervior at [ETH Zurich](https://ethz.ch/en.html) during Sep. 2019 - Feb. 2020.
+For more information, please check my [CV](https://github.com/thomas-young-2013/thomas-young-2013.github.io/blob/master/files/CV/CV_yangli_2021_june.pdf).
 
-
+<span style="color:blue">I am looking for a job now! If you are interested in me, please contact me via thomasyoung1995@foxmail.com</span>
 
 <span style="color:red">What's New</span>
 ======
