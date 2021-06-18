@@ -13,9 +13,9 @@ name                     : &name "Yang Li"
 description              : &description "Ph.D. Student"
 description              : &description "Peking University"
 description              : &description "Data and Intelligence Research Lab (DAIR)"
-url                      : https://yangli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://thomas-young-2013.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "thomas-young-2013/yangli.github.io"
+repository               : "thomas-young-2013/thomas-young-2013.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
