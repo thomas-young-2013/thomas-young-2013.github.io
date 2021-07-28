@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yang Li's Homepage"
+title                    : "黎洋的主页 | Yang Li's Homepage"
 title_separator          : "-"
-name                     : &name "Yang Li"
+name                     : &name "黎洋 | Yang Li"
 description              : &description "Ph.D. Student"
 description              : &description "Peking University"
 description              : &description "Data and Intelligence Research Lab (DAIR)"
