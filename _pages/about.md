@@ -12,7 +12,6 @@ I am currently a Ph.D. student at Peking University, advised by [Prof. Bin Cui](
 I have also been closely working with [Prof. Ce Zhang](https://ds3lab.inf.ethz.ch/members/ce-zhang.html), who is my supervior at [ETH Zurich](https://ethz.ch/en.html) during Sep. 2019 - Feb. 2020.
 For more information, please refer to my [CV](https://github.com/thomas-young-2013/thomas-young-2013.github.io/blob/master/files/CV/CV.pdf).
 
-<span style="color:blue">I am looking for a job now! If you are interested in me, please contact me via thomasyoung1995@foxmail.com</span>
 
 <span style="color:red">What's New</span>
 ======
@@ -27,10 +26,10 @@ Research Interests
 
 Recent Papers
 ======
-* <span style="color:red">New!!</span> Yang Li, Yu Shen, Wentao Zhang, Jiawei Jiang, Yaliang Li, Bolin Ding, Jingren Zhou, Zhi Yang, Wentao Wu, Ce Zhang, Bin Cui. "[VolcanoML: Speeding up End-to-End AutoML via Scalable Search Space Decomposition]()", to appear at VLDB'21.  
+* <span style="color:red">New!!</span> Yang Li, Yu Shen, Huaijun Jiang, Wentao Zhang, Jixiang Li, Ji Liu, Ce Zhang, Bin Cui. "[Hyper-Tune: Towards Efficient Hyper-parameter Tuning at Scale]()", to appear at VLDB'22.  
 
 Selected Publications
 ======
-* Yang Li, Jiawei Jiang, Jinyang Gao, Yingxia Shao, Ce Zhang, Bin Cui. [Efficient Automatic CASH via Rising Bandits](https://arxiv.org/abs/2012.04371). AAAI'20.  <span style="color:blue">(Spotlight Presentation)</span>
+* Yang Li, Yu Shen, Huaijun Jiang, Wentao Zhang, Jixiang Li, Ji Liu, Ce Zhang, Bin Cui. [Hyper-Tune: Towards Efficient Hyper-parameter Tuning at Scale](), VLDB'22 (CCF-A).
 * Yang Li, Shen Yu, Jiawei Jiang, Jinyang Gao, Ce Zhang, Bin Cui. [MFES-HB: Efficient Hyperband with Multi-Fidelity Quality Measurements](https://arxiv.org/abs/2012.03011). AAAI'21. 
 * Yang Li, Yu Shen, Wentao Zhang, Yuanwei Chen, Huai Jun Jiang, Ming Chao Liu, Jiawei Jiang, Jinyang Gao, Wentao Wu, Zhi Yang, Ce Zhang, Bin Cui. "[OpenBox: A Generalized Black-box Optimization Service](https://arxiv.org/abs/2106.00421)". SIGKDD'21.

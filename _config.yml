@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "黎洋的主页 | Yang Li's Homepage"
+title                    : "Yang Li(黎洋)'s Homepage"
 title_separator          : "-"
-name                     : &name "黎洋 | Yang Li"
+name                     : &name "Yang Li"
 description              : &description "Ph.D. Student"
 description              : &description "Peking University"
 description              : &description "Data and Intelligence Research Lab (DAIR)"
@@ -91,7 +91,7 @@ author:
   location         : "Beijing, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=_4s8hFYAAAAJ"
-  email            :
+  email            : "liyang.cs@pku.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
