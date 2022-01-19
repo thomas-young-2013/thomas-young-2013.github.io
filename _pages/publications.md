@@ -15,7 +15,7 @@ permalink: /publications/
 
 # 2022
 
-* Yang Li, Yu Shen, Huaijun Jiang, Wentao Zhang, Jixiang Li, Ji Liu, Ce Zhang, Bin Cui. [Hyper-Tune: Towards Efficient Hyper-parameter Tuning at Scale](), VLDB'22 (CCF-A).
+* Yang Li, Yu Shen, Huaijun Jiang, Wentao Zhang, Jixiang Li, Ji Liu, Ce Zhang, Bin Cui. [Hyper-Tune: Towards Efficient Hyper-parameter Tuning at Scale](http://arxiv.org/abs/2201.06834), VLDB'22 (CCF-A).
 
 # 2021
 
