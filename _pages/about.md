@@ -29,12 +29,8 @@ Professional Services
 * Program committee: SIGKDD 2022
 * Program committee: ICML 2022
 
-Recent Papers
-======
-* <span style="color:red">New!!</span> Yang Li, Yu Shen, Huaijun Jiang, Wentao Zhang, Jixiang Li, Ji Liu, Ce Zhang, Bin Cui. "[Hyper-Tune: Towards Efficient Hyper-parameter Tuning at Scale]()", to appear at VLDB'22.  
-
 Selected Publications
 ======
-* Yang Li, Yu Shen, Huaijun Jiang, Wentao Zhang, Jixiang Li, Ji Liu, Ce Zhang, Bin Cui. [Hyper-Tune: Towards Efficient Hyper-parameter Tuning at Scale](), VLDB'22 (CCF-A).
+* Yang Li, Yu Shen, Huaijun Jiang, Wentao Zhang, Jixiang Li, Ji Liu, Ce Zhang, Bin Cui. [Hyper-Tune: Towards Efficient Hyper-parameter Tuning at Scale](https://arxiv.org/abs/2201.06834), VLDB'22 (CCF-A).
 * Yang Li, Shen Yu, Jiawei Jiang, Jinyang Gao, Ce Zhang, Bin Cui. [MFES-HB: Efficient Hyperband with Multi-Fidelity Quality Measurements](https://arxiv.org/abs/2012.03011). AAAI'21. 
 * Yang Li, Yu Shen, Wentao Zhang, Yuanwei Chen, Huai Jun Jiang, Ming Chao Liu, Jiawei Jiang, Jinyang Gao, Wentao Wu, Zhi Yang, Ce Zhang, Bin Cui. "[OpenBox: A Generalized Black-box Optimization Service](https://arxiv.org/abs/2106.00421)". SIGKDD'21.
