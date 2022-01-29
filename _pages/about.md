@@ -24,6 +24,11 @@ Research Interests
 * Deep Learning
 * Optimization Methods
 
+Professional Services
+======
+* Program committee: SIGKDD 2022
+* Program committee: ICML 2022
+
 Recent Papers
 ======
 * <span style="color:red">New!!</span> Yang Li, Yu Shen, Huaijun Jiang, Wentao Zhang, Jixiang Li, Ji Liu, Ce Zhang, Bin Cui. "[Hyper-Tune: Towards Efficient Hyper-parameter Tuning at Scale]()", to appear at VLDB'22.  
