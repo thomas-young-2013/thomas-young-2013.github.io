@@ -16,6 +16,7 @@ permalink: /publications/
 # 2022
 
 * Yang Li, Yu Shen, Huaijun Jiang, Wentao Zhang, Jixiang Li, Ji Liu, Ce Zhang, Bin Cui. [Hyper-Tune: Towards Efficient Hyper-parameter Tuning at Scale](http://arxiv.org/abs/2201.06834), VLDB'22 (CCF-A).
+* Wentao Zhang, Yu Shen, Zheyu Lin, Yang Li, Xiaosen Li, wen ouyang, Yangyu Tao, Zhi Yang, Bin Cui. [PaSca: a Graph Neural Architecture Search System under the Scalable Paradigm](), WWW'22 (CCF-A).
 
 # 2021
 
