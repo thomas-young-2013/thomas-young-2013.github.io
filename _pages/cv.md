@@ -18,6 +18,7 @@ Education
 Work experience
 ======
 
-* 2020.9-: Research Intern at [Kuaishou Technology, Beijing](https://www.kuaishou.com/en)
+* 2022.1-: Engineering Intern at [Tencent TEG, Beijing](https://www.tencent.com/en-us)
+* 2020.9-2021.10: Research Intern at [Kuaishou Technology, Beijing](https://www.kuaishou.com/en)
 * 2016.12-2017.8: Engineering Intern at [Tencent, Shenzhen](https://www.tencent.com/en-us/index.html)
 * 2016.6-2016.9: Engineering Intern at [Alibaba Group, Hangzhou](https://www.alibabagroup.com/en/global/home)
