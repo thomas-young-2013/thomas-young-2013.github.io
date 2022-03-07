@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at Peking University, advised by [Prof. Bin Cui](https://cs.pku.edu.cn/info/1082/1276.htm). I faithfully believe that by making data—along with the processing of data—easily accessible to non-expert users, we have the potential to make the world a better place. My current research focuses on building automatic machine learning systems to support machine learning and help facilitate data science.
+I am currently a Ph.D. student at Peking University, advised by [Prof. Bin Cui](https://cuibinpku.github.io/). I faithfully believe that by making data—along with the processing of data—easily accessible to non-expert users, we have the potential to make the world a better place. My current research focuses on building automatic machine learning systems to support machine learning and help facilitate data science.
 I have also been closely working with [Prof. Ce Zhang](https://ds3lab.inf.ethz.ch/members/ce-zhang.html), who is my supervior at [ETH Zurich](https://ethz.ch/en.html) during Sep. 2019 - Feb. 2020.
 For more information, please refer to my [CV](https://github.com/thomas-young-2013/thomas-young-2013.github.io/blob/master/files/CV/CV.pdf).
 
