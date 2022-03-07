@@ -20,8 +20,8 @@ For more information, please refer to my [CV](https://github.com/thomas-young-20
 Research Interests
 ======
 * AutoML Algorithms, Systems and Applications
-* Distributed Machine Learning Systems
-* Deep Learning
+* Reinforcement Learning
+* Algorithms for Decision Making
 * Optimization Methods
 
 Professional Services
