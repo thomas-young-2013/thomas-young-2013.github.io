@@ -18,7 +18,8 @@ permalink: /publications/
 * Yang Li, Yu Shen, Huaijun Jiang, Wentao Zhang, Jixiang Li, Ji Liu, Ce Zhang, Bin Cui. [Hyper-Tune: Towards Efficient Hyper-parameter Tuning at Scale](http://arxiv.org/abs/2201.06834), VLDB'22 (CCF-A).
 * Wentao Zhang, Yu Shen, Zheyu Lin, Yang Li, Xiaosen Li, wen ouyang, Yangyu Tao, Zhi Yang, Bin Cui. [PaSca: a Graph Neural Architecture Search System under the Scalable Paradigm](), WWW'22 (CCF-A).
 * Xinyi Zhang, Hong Wu, Yang Li, Jian Tan, Feifei Li, Bin Cui. [Towards Dynamic and Safe Configuration Tuning for Cloud Databases](), SIGMOD'22 (CCF-A).
-* Xinyi Zhang, Zuo Chang, Yang Li, Bin Cui. [Facilitating Database Tuning with Hyper-Parameter Optimization : An Experimental Evaluation](). VLDB 2022 (CCF-A).
+* Xinyi Zhang, Zuo Chang, Yang Li, Bin Cui. [Facilitating Database Tuning with Hyper-Parameter Optimization : An Experimental Evaluation](), VLDB 2022 (CCF-A).
+* Yang Bai, Yang Li, Yu Shen, Mingyu Yang, Wentao Zhang, Bin Cui. [AutoDC: an Automatic Machine Learning Framework for Disease Classification](), Bioinformatics 2022 (CCF-A).
 
 
 # 2021
