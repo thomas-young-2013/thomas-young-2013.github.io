@@ -20,7 +20,7 @@ permalink: /publications/
 * Yang Li, Yu Shen, Huaijun Jiang, Wentao Zhang, Jixiang Li, Ji Liu, Ce Zhang, Bin Cui. "[Hyper-Tune: Towards Efficient Hyper-parameter Tuning at Scale](http://arxiv.org/abs/2201.06834)", VLDB 2022 (CCF-A).
 * Wentao Zhang, Zeang Sheng, Mingyu Yang, Yang Li, Yu Shen, Zhi Yang, Bin Cui. "[NAFS : A Simple yet Tough-to-Beat Baseline for Graph Representation Learning]()", to appear at ICML 2022 (CCF-A).
 * Wentao Zhang, Yu Shen, Zheyu Lin, Yang Li, Zhi Yang, Bin Cui. "[Deep and Flexible Graph Neural Architecture Search]()", to appear at ICML 2022 (CCF-A).
-* * Xinyi Zhang, Hong Wu, Yang Li, Jian Tan, Feifei Li, Bin Cui. "[Towards Dynamic and Safe Configuration Tuning for Cloud Databases](https://arxiv.org/abs/2203.14473)", SIGMOD 2022 (CCF-A).
+* Xinyi Zhang, Hong Wu, Yang Li, Jian Tan, Feifei Li, Bin Cui. "[Towards Dynamic and Safe Configuration Tuning for Cloud Databases](https://arxiv.org/abs/2203.14473)", SIGMOD 2022 (CCF-A).
 * Wentao Zhang, Ziqi Yin, Zeang Sheng, Yang Li, Wen Ouyang, Xiaosen Li, Yangyu Tao, Zhi Yang, Bin Cui. "[Graph Attention Multi-Layer Perceptron]()", to appear at SIGKDD 2022 (CCF-A).
 * Wentao Zhang, Yu Shen, Zheyu Lin, Yang Li, Xiaosen Li, wen ouyang, Yangyu Tao, Zhi Yang, Bin Cui. "[PaSca: a Graph Neural Architecture Search System under the Scalable Paradigm](https://dl.acm.org/doi/10.1145/3485447.3511986)", WWW 2022 (🏆 Best Student Paper Award among 1822 submmisions, CCF-A).
 * Xinyi Zhang, Zuo Chang, Yang Li, Bin Cui. "[Facilitating Database Tuning with Hyper-Parameter Optimization : An Experimental Evaluation](https://arxiv.org/abs/2110.12654)", VLDB 2022 (CCF-A).
