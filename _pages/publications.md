@@ -17,26 +17,26 @@ permalink: /publications/
 
 * Yang Li, Yu Shen, Huaijun Jiang, Tianyi Bai , Wentao Zhang, Ce Zhang, Bin Cui. "[Transfer Learning based Search Space Design for Hyperparameter Tuning]()", to appear at SIGKDD 2022 (CCF-A).
 * Yang Li, Yu Shen, Huaijun Jiang, Wentao Zhang, Zhi Yang, Ce Zhang, Bin Cui. "[TransBO : Hyperparameter optimization via Two-Phase Transfer Learning]()", to appear at SIGKDD 2022 (CCF-A).
-* Yang Li, Yu Shen, Huaijun Jiang, Wentao Zhang, Jixiang Li, Ji Liu, Ce Zhang, Bin Cui. "[Hyper-Tune: Towards Efficient Hyper-parameter Tuning at Scale](http://arxiv.org/abs/2201.06834)", VLDB'22 (CCF-A).
+* Yang Li, Yu Shen, Huaijun Jiang, Wentao Zhang, Jixiang Li, Ji Liu, Ce Zhang, Bin Cui. "[Hyper-Tune: Towards Efficient Hyper-parameter Tuning at Scale](http://arxiv.org/abs/2201.06834)", VLDB 2022 (CCF-A).
 * Wentao Zhang, Zeang Sheng, Mingyu Yang, Yang Li, Yu Shen, Zhi Yang, Bin Cui. "[NAFS : A Simple yet Tough-to-Beat Baseline for Graph Representation Learning]()", to appear at ICML 2022 (CCF-A).
 * Wentao Zhang, Yu Shen, Zheyu Lin, Yang Li, Zhi Yang, Bin Cui. "[Deep and Flexible Graph Neural Architecture Search]()", to appear at ICML 2022 (CCF-A).
+* * Xinyi Zhang, Hong Wu, Yang Li, Jian Tan, Feifei Li, Bin Cui. "[Towards Dynamic and Safe Configuration Tuning for Cloud Databases](https://arxiv.org/abs/2203.14473)", SIGMOD 2022 (CCF-A).
 * Wentao Zhang, Ziqi Yin, Zeang Sheng, Yang Li, Wen Ouyang, Xiaosen Li, Yangyu Tao, Zhi Yang, Bin Cui. "[Graph Attention Multi-Layer Perceptron]()", to appear at SIGKDD 2022 (CCF-A).
-* Wentao Zhang, Yu Shen, Zheyu Lin, Yang Li, Xiaosen Li, wen ouyang, Yangyu Tao, Zhi Yang, Bin Cui. "[PaSca: a Graph Neural Architecture Search System under the Scalable Paradigm](https://dl.acm.org/doi/10.1145/3485447.3511986)", WWW'22 (🏆 Best Student Paper Award among 1822 submmisions, CCF-A).
-* Xinyi Zhang, Hong Wu, Yang Li, Jian Tan, Feifei Li, Bin Cui. "[Towards Dynamic and Safe Configuration Tuning for Cloud Databases](https://arxiv.org/abs/2203.14473)", SIGMOD'22 (CCF-A).
+* Wentao Zhang, Yu Shen, Zheyu Lin, Yang Li, Xiaosen Li, wen ouyang, Yangyu Tao, Zhi Yang, Bin Cui. "[PaSca: a Graph Neural Architecture Search System under the Scalable Paradigm](https://dl.acm.org/doi/10.1145/3485447.3511986)", WWW 2022 (🏆 Best Student Paper Award among 1822 submmisions, CCF-A).
 * Xinyi Zhang, Zuo Chang, Yang Li, Bin Cui. "[Facilitating Database Tuning with Hyper-Parameter Optimization : An Experimental Evaluation](https://arxiv.org/abs/2110.12654)", VLDB 2022 (CCF-A).
 * Yang Bai, Yang Li, Yu Shen, Mingyu Yang, Wentao Zhang, Bin Cui. "[AutoDC: an Automatic Machine Learning Framework for Disease Classification](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btac334/6588096)", Bioinformatics 2022 (CCF-A).
 
 
 # 2021
 
-* Yang Li, Shen Yu, Jiawei Jiang, Jinyang Gao, Ce Zhang, Bin Cui. "[MFES-HB: Efficient Hyperband with Multi-Fidelity Quality Measurements](https://arxiv.org/abs/2012.03011)", AAAI'21 (CCF-A). 
-* Yang Li, Yu Shen, Wentao Zhang, Jiawei Jiang, Yaliang Li, Bolin Ding, Jingren Zhou, Zhi Yang, Wentao Wu, Ce Zhang, Bin Cui. "[VolcanoML: Speeding up End-to-End AutoML via Scalable Search Space Decomposition](https://arxiv.org/pdf/2107.08861)", VLDB'21 (CCF-A).  
-* Yang Li, Yu Shen, Wentao Zhang, Yuanwei Chen, Huai Jun Jiang, Ming Chao Liu, Jiawei Jiang, Jinyang Gao, Wentao Wu, Zhi Yang, Ce Zhang, Bin Cui. "[OpenBox: A Generalized Black-box Optimization Service](https://arxiv.org/abs/2106.00421)", SIGKDD'21 (CCF-A).
-* Wentao Zhang, Mingyu Yang, Zeang Sheng, Yang Li, Wen Ouyang, Yangyu Tao, Zhi Yang, Bin Cui. "[Node Dependent Local Smoothing for Scalable Graph Learning](https://arxiv.org/pdf/2110.14377)". NeurIPS'21 (spotlight presentation, <3% CCF-A).
-* Wentao Zhang, Yu Shen, Yang Li, Lei Chen, Zhi Yang, Bin Cui. "[ALG: Fast and Accurate Active Learning Framework for Graph Convolutional Networks](https://dl.acm.org/doi/10.1145/3448016.3457325)". SIGMOD'21 (CCF-A).
-* Wentao Zhang, Jiang Yuezihan, Yang Li, Zeang Sheng, Yu Shen, Xupeng Miao, Liang Wang, Zhi Yang, Bin Cui. "[ROD: Reception-aware Online Distillation for Sparse Graphs](https://arxiv.org/pdf/2107.11789)". SIGKDD'21 (CCF-A).
-* Wentao Zhang, Zhi Yang, YeXin Wang, Yu Shen, Yang Li, Liang Wang, Bin Cui. "[Grain : Improving Data Efficiency of GraphNeural Networks via Diversified Influence Maximization](http://vldb.org/pvldb/vol14/p2473-zhang.pdf)". VLDB'21 (CCF-A).
-* Leonel Aguilar, David Dao, Shaoduo Gan, Nezihe Merve Gurel, Nora Hollenstein, Jiawei Jiang, Bojan Karlas, Thomas Lemmin, Tian Li, Yang Li, Susie Rao, Johannes Rausch, Cedric Renggli, Luka Rimanic, Maurice Weber, Shuai Zhang, Zhikuan Zhao, Kevin Schawinski, Wentao Wu, Ce Zhang. "[Ease.ML: A Lifecycle Management System for Machine Learning](http://cidrdb.org/cidr2021/papers/cidr2021_paper26.pdf)". CIDR'21 (CCF-B).
+* Yang Li, Shen Yu, Jiawei Jiang, Jinyang Gao, Ce Zhang, Bin Cui. "[MFES-HB: Efficient Hyperband with Multi-Fidelity Quality Measurements](https://arxiv.org/abs/2012.03011)", AAAI 2021 (CCF-A). 
+* Yang Li, Yu Shen, Wentao Zhang, Jiawei Jiang, Yaliang Li, Bolin Ding, Jingren Zhou, Zhi Yang, Wentao Wu, Ce Zhang, Bin Cui. "[VolcanoML: Speeding up End-to-End AutoML via Scalable Search Space Decomposition](https://arxiv.org/pdf/2107.08861)", VLDB 2021 (CCF-A).  
+* Yang Li, Yu Shen, Wentao Zhang, Yuanwei Chen, Huai Jun Jiang, Ming Chao Liu, Jiawei Jiang, Jinyang Gao, Wentao Wu, Zhi Yang, Ce Zhang, Bin Cui. "[OpenBox: A Generalized Black-box Optimization Service](https://arxiv.org/abs/2106.00421)", SIGKDD 2021 (CCF-A).
+* Wentao Zhang, Mingyu Yang, Zeang Sheng, Yang Li, Wen Ouyang, Yangyu Tao, Zhi Yang, Bin Cui. "[Node Dependent Local Smoothing for Scalable Graph Learning](https://arxiv.org/pdf/2110.14377)". NeurIPS 2021 <span style="color:blue">(Spotlight Presentation <3%)</span> (CCF-A).
+* Wentao Zhang, Yu Shen, Yang Li, Lei Chen, Zhi Yang, Bin Cui. "[ALG: Fast and Accurate Active Learning Framework for Graph Convolutional Networks](https://dl.acm.org/doi/10.1145/3448016.3457325)". SIGMOD 2021 (CCF-A).
+* Wentao Zhang, Jiang Yuezihan, Yang Li, Zeang Sheng, Yu Shen, Xupeng Miao, Liang Wang, Zhi Yang, Bin Cui. "[ROD: Reception-aware Online Distillation for Sparse Graphs](https://arxiv.org/pdf/2107.11789)". SIGKDD 2021 (CCF-A).
+* Wentao Zhang, Zhi Yang, YeXin Wang, Yu Shen, Yang Li, Liang Wang, Bin Cui. "[Grain : Improving Data Efficiency of GraphNeural Networks via Diversified Influence Maximization](http://vldb.org/pvldb/vol14/p2473-zhang.pdf)". VLDB 2021 (CCF-A).
+* Leonel Aguilar, David Dao, Shaoduo Gan, Nezihe Merve Gurel, Nora Hollenstein, Jiawei Jiang, Bojan Karlas, Thomas Lemmin, Tian Li, Yang Li, Susie Rao, Johannes Rausch, Cedric Renggli, Luka Rimanic, Maurice Weber, Shuai Zhang, Zhikuan Zhao, Kevin Schawinski, Wentao Wu, Ce Zhang. "[Ease.ML: A Lifecycle Management System for Machine Learning](http://cidrdb.org/cidr2021/papers/cidr2021_paper26.pdf)". CIDR 2021 (CCF-B).
 
 # 2020
 
