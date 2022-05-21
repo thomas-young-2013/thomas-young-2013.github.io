@@ -31,6 +31,6 @@ Professional Services
 
 Selected Publications
 ======
-* Yang Li, Yu Shen, Huaijun Jiang, Wentao Zhang, Jixiang Li, Ji Liu, Ce Zhang, Bin Cui. [Hyper-Tune: Towards Efficient Hyper-parameter Tuning at Scale](https://arxiv.org/abs/2201.06834), VLDB'22 (CCF-A).
-* Yang Li, Shen Yu, Jiawei Jiang, Jinyang Gao, Ce Zhang, Bin Cui. [MFES-HB: Efficient Hyperband with Multi-Fidelity Quality Measurements](https://arxiv.org/abs/2012.03011). AAAI'21. 
+* Yang Li, Yu Shen, Huaijun Jiang, Tianyi Bai , Wentao Zhang, Ce Zhang, Bin Cui. "[Transfer Learning based Search Space Design for Hyperparameter Tuning]()", to appear at SIGKDD 2022 (CCF-A).
+* Yang Li, Jiawei Jiang, Jinyang Gao, Yingxia Shao, Ce Zhang, Bin Cui. [Efficient Automatic CASH via Rising Bandits](https://arxiv.org/abs/2012.04371), AAAI'20 (CCF-A).  <span style="color:blue">(Spotlight Presentation)</span>
 * Yang Li, Yu Shen, Wentao Zhang, Yuanwei Chen, Huai Jun Jiang, Ming Chao Liu, Jiawei Jiang, Jinyang Gao, Wentao Wu, Zhi Yang, Ce Zhang, Bin Cui. "[OpenBox: A Generalized Black-box Optimization Service](https://arxiv.org/abs/2106.00421)". SIGKDD'21.
