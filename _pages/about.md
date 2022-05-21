@@ -32,5 +32,5 @@ Professional Services
 Selected Publications
 ======
 * Yang Li, Yu Shen, Huaijun Jiang, Tianyi Bai , Wentao Zhang, Ce Zhang, Bin Cui. "[Transfer Learning based Search Space Design for Hyperparameter Tuning]()", to appear at SIGKDD 2022 (CCF-A).
-* Yang Li, Jiawei Jiang, Jinyang Gao, Yingxia Shao, Ce Zhang, Bin Cui. [Efficient Automatic CASH via Rising Bandits](https://arxiv.org/abs/2012.04371), AAAI'20 (CCF-A).  <span style="color:blue">(Spotlight Presentation)</span>
-* Yang Li, Yu Shen, Wentao Zhang, Yuanwei Chen, Huai Jun Jiang, Ming Chao Liu, Jiawei Jiang, Jinyang Gao, Wentao Wu, Zhi Yang, Ce Zhang, Bin Cui. "[OpenBox: A Generalized Black-box Optimization Service](https://arxiv.org/abs/2106.00421)". SIGKDD'21.
+* Yang Li, Jiawei Jiang, Jinyang Gao, Yingxia Shao, Ce Zhang, Bin Cui. [Efficient Automatic CASH via Rising Bandits](https://ojs.aaai.org/index.php/AAAI/article/view/5910), AAAI 2020 (CCF-A).  <span style="color:blue">(Spotlight Presentation)</span>.
+* Yang Li, Yu Shen, Wentao Zhang, Yuanwei Chen, Huai Jun Jiang, Ming Chao Liu, Jiawei Jiang, Jinyang Gao, Wentao Wu, Zhi Yang, Ce Zhang, Bin Cui. "[OpenBox: A Generalized Black-box Optimization Service](https://arxiv.org/abs/2106.00421)". SIGKDD 2021.
