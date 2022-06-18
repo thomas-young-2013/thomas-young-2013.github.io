@@ -12,14 +12,12 @@ redirect_from:
 I am an machine learning researcher & engineer in the department of data platform, Technology and Engineering Group (TEG), Tencent inc. 
 I obtained my Ph.D. degree in Computer Science from Peking University in June 2022, advised by [Prof. Bin Cui](https://cuibinpku.github.io/). 
 And I spent one wonderful semester at [ETH Zurich](https://ethz.ch/en.html) as a visiting Ph.D student during Sep. 2019 - Feb. 2020, working with [Prof. Ce Zhang](https://ds3lab.inf.ethz.ch/members/ce-zhang.html).
-For more information, please refer to my [CV](https://github.com/thomas-young-2013/thomas-young-2013.github.io/blob/master/files/CV/CV.pdf).
 
 I believe that by making data — along with the processing of data — easily accessible to non-expert users, we have the potential to make the world a better place. 
 My current research involves Black-box optimization, Bayesian optimization, online decision-making method, reinforcement learning, machine learning and deep learning.
 And I has a special focus on building automatic machine learning systems to support machine learning and help facilitate data science.
 The main applications of my research work include (1) automatic tuning, such as knobs tuning in database system, config tuning in big data system, resource optimization and experiment design, and (2) automatic machine learning, such as automatic hyperparameter optimization, adaptive model selection, and pipeline generation. 
-I once interned at Alibaba, Tencent, Kuaishou during my college study.
-I have published 20+ papers in the top Database (SIGMOD, VLDB), data mining (KDD, WWW) and artificial intelligence (ICML, NeurIPS, AAAI) venues. 
+I have published 20+ papers in the top database (SIGMOD, VLDB), data mining (KDD, WWW) and artificial intelligence (ICML, NeurIPS, AAAI) venues.
 My research work is recognized by multiple prestigious awards, including the best student paper at WWW 2022, May fourth Scholarship at Peking University 2021.
 
 
@@ -47,5 +45,5 @@ Awards
 * Merit Student (Top 10% in Peking University), 2021
 * May fourth Scholarship (Top 10% in Peking University), 2021
 * Champion of [ACM CIKM AnalyticCup](https://www.cikm2021.org/analyticup), 2021
-* Top Prize (special prize) in the open-source innovation competition at [CCF ChinaSoft](http://chinasoft.ccf.org.cn/introduction.html), 2021
+* Top Prize (special prize) in the innovation competition at [CCF ChinaSoft](http://chinasoft.ccf.org.cn/introduction.html), 2021
 * Academic Excellence Award (Top 10% in PKU), 2019
