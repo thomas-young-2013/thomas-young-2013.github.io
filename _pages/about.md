@@ -8,9 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at Peking University, advised by [Prof. Bin Cui](https://cuibinpku.github.io/). I faithfully believe that by making data—along with the processing of data—easily accessible to non-expert users, we have the potential to make the world a better place. My current research focuses on building automatic machine learning systems to support machine learning and help facilitate data science.
-I have also been closely working with [Prof. Ce Zhang](https://ds3lab.inf.ethz.ch/members/ce-zhang.html), who is my supervior at [ETH Zurich](https://ethz.ch/en.html) during Sep. 2019 - Feb. 2020.
+
+I am an machine learning researcher & engineer in the department of data platform, Technology and Engineering Group (TEG), Tencent inc. 
+I obtained my Ph.D. degree in Computer Science from Peking University in June 2022, advised by [Prof. Bin Cui](https://cuibinpku.github.io/). 
+And I spent one wonderful semester at [ETH Zurich](https://ethz.ch/en.html) as a visiting Ph.D student during Sep. 2019 - Feb. 2020, working with [Prof. Ce Zhang](https://ds3lab.inf.ethz.ch/members/ce-zhang.html).
 For more information, please refer to my [CV](https://github.com/thomas-young-2013/thomas-young-2013.github.io/blob/master/files/CV/CV.pdf).
+
+I believe that by making data — along with the processing of data — easily accessible to non-expert users, we have the potential to make the world a better place. 
+My current research involves Black-box optimization, Bayesian optimization, online decision-making method, reinforcement learning, machine learning and deep learning.
+And I has a special focus on building automatic machine learning systems to support machine learning and help facilitate data science.
+The main applications of my research work include (1) automatic tuning, such as knobs tuning in database system, config tuning in big data system, resource optimization and experiment design, and (2) automatic machine learning, such as automatic hyperparameter optimization, adaptive model selection, and pipeline generation. 
+I once interned at Alibaba, Tencent, Kuaishou during my college study.
+I have published 20+ papers in the top Database (SIGMOD, VLDB), data mining (KDD, WWW) and artificial intelligence (ICML, NeurIPS, AAAI) venues. 
+My research work is recognized by multiple prestigious awards, including the best student paper at WWW 2022, May fourth Scholarship at Peking University 2021.
 
 
 <span style="color:red">What's New</span>
@@ -22,15 +32,20 @@ Research Interests
 * AutoML Algorithms, Systems and Applications
 * Reinforcement Learning
 * Algorithms for Decision Making
-* Optimization Methods
+* Black-box optimization Methods
 
 Professional Services
 ======
 * Program committee: SIGKDD 2022
 * Program committee: ICML 2022
+* Data Science and Engineering Reviewer 2022
 
-Selected Publications
+Awards
 ======
-* Yang Li, Yu Shen, Huaijun Jiang, Tianyi Bai , Wentao Zhang, Ce Zhang, Bin Cui. "[Transfer Learning based Search Space Design for Hyperparameter Tuning]()", to appear at SIGKDD 2022 (CCF-A).
-* Yang Li, Jiawei Jiang, Jinyang Gao, Yingxia Shao, Ce Zhang, Bin Cui. [Efficient Automatic CASH via Rising Bandits](https://ojs.aaai.org/index.php/AAAI/article/view/5910), AAAI 2020 (CCF-A).  <span style="color:blue">(Spotlight Presentation)</span>.
-* Yang Li, Yu Shen, Wentao Zhang, Yuanwei Chen, Huai Jun Jiang, Ming Chao Liu, Jiawei Jiang, Jinyang Gao, Wentao Wu, Zhi Yang, Ce Zhang, Bin Cui. "[OpenBox: A Generalized Black-box Optimization Service](https://arxiv.org/abs/2106.00421)". SIGKDD 2021.
+* Excellent Graduate of Peking University, 2022
+* Best Student Paper Award of WWW 2022 (among 1822 submmisions), 2022
+* Merit Student (Top 10% in Peking University), 2021
+* May fourth Scholarship (Top 10% in Peking University), 2021
+* Champion of [ACM CIKM AnalyticCup](https://www.cikm2021.org/analyticup), 2021
+* Top Prize (special prize) in the open-source innovation competition at [CCF ChinaSoft](http://chinasoft.ccf.org.cn/introduction.html), 2021
+* Academic Excellence Award (Top 10% in PKU), 2019
