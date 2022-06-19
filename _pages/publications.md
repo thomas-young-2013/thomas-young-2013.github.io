@@ -18,6 +18,7 @@ permalink: /publications/
 * Yang Li, Yu Shen, Huaijun Jiang, Tianyi Bai , Wentao Zhang, Ce Zhang, Bin Cui. "[Transfer Learning based Search Space Design for Hyperparameter Tuning]()", to appear at SIGKDD 2022 (CCF-A).
 * Yang Li, Yu Shen, Huaijun Jiang, Wentao Zhang, Zhi Yang, Ce Zhang, Bin Cui. "[TransBO : Hyperparameter optimization via Two-Phase Transfer Learning]()", to appear at SIGKDD 2022 (CCF-A).
 * Yang Li, Yu Shen, Huaijun Jiang, Wentao Zhang, Jixiang Li, Ji Liu, Ce Zhang, Bin Cui. "[Hyper-Tune: Towards Efficient Hyper-parameter Tuning at Scale](http://arxiv.org/abs/2201.06834)", VLDB 2022 (CCF-A).
+* Yang Li, Yu Shen, Wentao Zhang, Ce Zhang, Bin Cui. "[Efficient End-to-End AutoML via Scalable Search Space Decomposition]()", VLDB Journal 2022 (CCF-A).
 * Wentao Zhang, Zeang Sheng, Mingyu Yang, Yang Li, Yu Shen, Zhi Yang, Bin Cui. "[NAFS : A Simple yet Tough-to-Beat Baseline for Graph Representation Learning]()", to appear at ICML 2022 (CCF-A).
 * Wentao Zhang, Yu Shen, Zheyu Lin, Yang Li, Zhi Yang, Bin Cui. "[Deep and Flexible Graph Neural Architecture Search]()", to appear at ICML 2022 (CCF-A).
 * Xinyi Zhang, Hong Wu, Yang Li, Jian Tan, Feifei Li, Bin Cui. "[Towards Dynamic and Safe Configuration Tuning for Cloud Databases](https://arxiv.org/abs/2203.14473)", SIGMOD 2022 (CCF-A).
