@@ -22,7 +22,9 @@ My research interests include (1) **AI + Big Data**: *synergistic optimization b
 and (3) **Automatic Machine Learning (AutoML)**: *automatic hyperparameter optimization, adaptive model selection, pipeline search, and neural architecture search*.
 
 
-**Email**: thomasyoung1995@foxmail.com
+**Email**: liyang.cs@pku.edu.cn
+
+**Note**: Feel free to contact me if interested to discuss research problems or work together.
 
 <span style="color:red">What's New</span>
 ======
