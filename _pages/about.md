@@ -30,7 +30,7 @@ and (3) **Automatic Machine Learning (AutoML)**: *automatic hyperparameter optim
 ======
 * We open sourced our generalized black-box optimization system at [Github Repository](https://github.com/PKU-DAIR/open-box). 
 
-Research Interests
+Research Fields
 ======
 * AutoML Algorithms, Systems and Applications
 * Reinforcement Learning
