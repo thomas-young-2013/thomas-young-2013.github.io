@@ -8,17 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-
-I am a machine learning researcher & engineer in the department of data platform, Technology and Engineering Group (TEG), Tencent inc. 
+**Bio.** I am a machine learning researcher & engineer in the department of data platform, TEG, Tencent inc. 
 I obtained my Ph.D. degree in Computer Science from Peking University in June 2022, advised by [Prof. Bin Cui](https://cuibinpku.github.io/). 
 And I spent one wonderful semester at ETH Zurich in 2019, working with [Prof. Ce Zhang](https://ds3lab.inf.ethz.ch/members/ce-zhang.html).
-
-I have a special focus on building automatic machine learning systems to support machine learning and help facilitate data science.
-The main applications of my research work include (1) (3) synergistic optimization between big data and artificial intelligence,
-(2) automatic tuning, such as knobs tuning in database system, config tuning in big data system, resource optimization and experiment design, and (3) automatic machine learning, such as automatic hyperparameter optimization, adaptive model selection, pipeline search, and neural architecture search.
 I have published 20+ papers in the top database (SIGMOD, VLDB), data mining (KDD, WWW) and artificial intelligence (ICML, NeurIPS, AAAI) venues.
+Besides, I am the designer of several system projects, including [OpenBox](https://github.com/PKU-DAIR/open-box), [MindWare](https://github.com/PKU-DAIR/mindware) and [HyperTune](https://github.com/PKU-DAIR/HyperTune). 
 My research work is recognized by multiple prestigious awards, including the best student paper at WWW 2022, May fourth Scholarship at Peking University 2021.
 
+**Research Interests.**
+I have a special focus on building automatic machine learning systems to support machine learning and help facilitate data science.
+My research interests include (1) **AI + Big Data**: *synergistic optimization between big data and artificial intelligence*,
+(2) **Black-box Optimization and its Application**: *automatic tuning, such as knobs tuning in database system, config tuning in big data system, resource optimization and experiment design*, 
+and (3) **Automatic Machine Learning (AutoML)**: *automatic hyperparameter optimization, adaptive model selection, pipeline search, and neural architecture search*.
+
+
+**Email**: thomasyoung1995@foxmail.com
 
 <span style="color:red">What's New</span>
 ======
@@ -34,9 +38,8 @@ Research Interests
 
 Professional Services
 ======
-* Program committee: SIGKDD 2022
-* Program committee: ICML 2022
-* Data Science and Engineering Reviewer 2022
+* Program committee: SIGKDD 2022, ICML 2022
+* Reviewer: Data Science and Engineering 2022
 
 Awards
 ======
