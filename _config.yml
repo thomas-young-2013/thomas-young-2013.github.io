@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yang Li(黎洋)'s Homepage"
+title                    : "Yang Li's Homepage"
 title_separator          : "-"
-name                     : &name "Yang Li"
-description              : &description "Machine Learning Researcher and Engineer"
+name                     : &name "Yang Li (黎洋)"
+description              : &description "Machine Learning Researcher/ Engineer"
 description              : &description "Department of Data Platform"
 description              : &description "TEG, Tencent inc."
 url                      : https://thomas-young-2013.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
