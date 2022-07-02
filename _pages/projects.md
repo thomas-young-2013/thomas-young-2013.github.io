@@ -17,11 +17,11 @@ characteristics : 1) BBO with multiple objectives and constraints, 2) BBO with t
 distributed parallelization, 4) BBO with multi-fidelity acceleration and 5) BBO with early stops.
 
 The design of OpenBox follows the following principles.
-* Ease of use : Minimal user effort, and user-friendly visualization for tracking and managing BBO tasks. 
-* Consistent performance : Host state-of-the-art optimization algorithms; Choose the proper algorithm automatically. 
-* Resource-aware management : Give cost-model based  advice to users, e.g., minimal workers or time-budget. 
-* Scalability : Scale to dimensions on the number of input variables, objectives, tasks, trials, and parallel evaluations. 
-* High efficiency : Effective use of parallel resources, system optimization with transfer-learning and multi-fidelities, etc. 
+* Ease of use: Minimal user effort, and user-friendly visualization for tracking and managing BBO tasks. 
+* Consistent performance: Host state-of-the-art optimization algorithms; Choose the proper algorithm automatically. 
+* Resource-aware management: Give cost-model based  advice to users, e.g., minimal workers or time-budget. 
+* Scalability: Scale to dimensions on the number of input variables, objectives, tasks, trials, and parallel evaluations. 
+* High efficiency: Effective use of parallel resources, system optimization with transfer-learning and multi-fidelities, etc. 
 * Fault tolerance, extensibility, and data privacy protection.
 
 **Keywords**: Blackbox optization as a service, NAS tool, AutoML optimization engine, Distributed system.
