@@ -30,14 +30,14 @@ The design of OpenBox follows the following principles.
 
 **Github Repository**: [https ://github.com/PKU-DAIR/open-box](https ://github.com/PKU-DAIR/open-box).
 
-#### Achievements
+**Achievements**
 * OpenBox based solutions got the CHAMPION of [ACM CIKM 2021 AnalyticCup](https://www.cikm2021.org/analyticup) (Track - Automated Hyperparameter Optimization of Recommendation System).
 * OpenBox team won the TOP PRIZE (Special Prize) in the open-source innovation competition at [CCF ChinaSoft 2021](http://chinasoft.ccf.org.cn/papers/chinasoft.html).
 * Scalable graph learning toolkit - [Pasca](https://github.com/PKU-DAIR/SGL), which adopts Openbox to support neural architecture search functionality, won the Best Student Paper Award at WWW'22.
 
 
 <p align="center">
-<img src="/images/mindware.png" width="40%">
+<img src="/images/mindware.png" width="35%">
 </p>
 
 ### MindWare: Efficient Open-source AutoML System
