@@ -4,7 +4,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-From 2017 to 2022, I led the AutoML team and several system projects in the [Data and Intelligence Research (DAIR)](http://net.pku.edu.cn/~cuibin/) Lab at Peking university, including OpenBox, MindWare and HyperTune.
+From 2017 to 2022, I led the AutoML team and several system projects in the [Data and Intelligence Research (DAIR)](https://cuibinpku.github.io/) Lab at Peking university, including OpenBox, MindWare and HyperTune.
 
 
 <p align="center">
@@ -28,7 +28,7 @@ The design of OpenBox follows the following principles.
 
 **Enterprise Users**: Tencent, Alibaba Group, ByteDance and Kuaishou Technology.
 
-**Github Repository**: [https ://github.com/PKU-DAIR/open-box](https ://github.com/PKU-DAIR/open-box).
+**Github Repository**: [https://github.com/PKU-DAIR/open-box](https://github.com/PKU-DAIR/open-box).
 
 **Achievements**
 * OpenBox based solutions got the CHAMPION of [ACM CIKM 2021 AnalyticCup](https://www.cikm2021.org/analyticup) (Track - Automated Hyperparameter Optimization of Recommendation System).
@@ -51,7 +51,7 @@ and complex search space, 3) transfer-learning and meta-learning, and 4) distrib
 
 **Highlights**: Superior end-to-end performance against commercial AutoML services from Google, Oracle, Microsoft and Amazon.
 
-**Github Repository**: [https ://github.com/PKU-DAIR/mindware](https ://github.com/PKU-DAIR/mindware).
+**Github Repository**: [https://github.com/PKU-DAIR/mindware](https://github.com/PKU-DAIR/mindware).
 
 
 <p align="center">
@@ -68,4 +68,4 @@ multi-fidelity optimizer.
 
 **Enterprise Users**: Kuaishou Technology.
 
-**Github Repository**: [https ://github.com/PKU-DAIR/hyper-tune](https ://github.com/PKU-DAIR/hyper-tune).
+**Github Repository**: [https://github.com/PKU-DAIR/HyperTune](https://github.com/PKU-DAIR/HyperTune).
