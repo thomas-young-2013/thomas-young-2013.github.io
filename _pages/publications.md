@@ -25,7 +25,7 @@ permalink: /publications/
 * Wentao Zhang, Ziqi Yin, Zeang Sheng, **Yang Li**, Wen Ouyang, Xiaosen Li, Yangyu Tao, Zhi Yang, Bin Cui. "[Graph Attention Multi-Layer Perceptron](https://arxiv.org/abs/2108.10097)". **SIGKDD 2022, CCF-A**.
 * Wentao Zhang, Yu Shen, Zheyu Lin, **Yang Li**, Xiaosen Li, wen ouyang, Yangyu Tao, Zhi Yang, Bin Cui. "[PaSca: a Graph Neural Architecture Search System under the Scalable Paradigm](https://dl.acm.org/doi/10.1145/3485447.3511986)". **WWW 2022 (🏆 Best Student Paper Award among 1822 submmisions), CCF-A**.
 * Xinyi Zhang, Zuo Chang, **Yang Li**, Bin Cui. "[Facilitating Database Tuning with Hyper-Parameter Optimization : An Experimental Evaluation](https://arxiv.org/abs/2110.12654)". **VLDB 2022, CCF-A**.
-* Yang Bai, **Yang Li**, Yu Shen, Mingyu Yang, Wentao Zhang, Bin Cui. "[AutoDC: an Automatic Machine Learning Framework for Disease Classification](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btac334/6588096)". **Bioinformatics 2022, CCF-A**.
+* Yang Bai, **Yang Li**, Yu Shen, Mingyu Yang, Wentao Zhang, Bin Cui. "[AutoDC: an Automatic Machine Learning Framework for Disease Classification](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btac334/6588096)". **Bioinformatics 2022, CCF-B**.
 
 
 # 2021
