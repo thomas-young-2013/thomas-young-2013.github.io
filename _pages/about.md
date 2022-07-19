@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Bio.** I am a machine learning researcher & engineer in the department of data platform, TEG, Tencent inc. 
+**Bio.** I am a senior researcher & engineer in the department of data platform, TEG, Tencent inc. 
 I obtained my Ph.D. degree in Computer Science from Peking University in June 2022, advised by [Prof. Bin Cui](https://cuibinpku.github.io/). 
 And I spent one wonderful semester at ETH Zurich in 2019, working with [Prof. Ce Zhang](https://ds3lab.inf.ethz.ch/members/ce-zhang.html).
 I have published 20+ papers in the top database (SIGMOD, VLDB), data mining (KDD, WWW) and artificial intelligence (ICML, NeurIPS, AAAI) venues.
