@@ -40,7 +40,8 @@ Research Fields
 
 Professional Services
 ======
-* Program committee: SIGKDD 2022, ICML 2022
+* Program committee: SIGKDD 2022, 2023
+* Program committee: ICML 2022
 * Reviewer: Data Science and Engineering 2022
 
 Awards
