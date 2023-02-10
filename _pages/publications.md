@@ -21,7 +21,7 @@ permalink: /publications/
 * **Yang Li**, Yu Shen, Huaijun Jiang, Wentao Zhang, Zhi Yang, Ce Zhang, Bin Cui. "[TransBO : Hyperparameter optimization via Two-Phase Transfer Learning](https://arxiv.org/abs/2206.02663)". **SIGKDD 2022, CCF-A**.
 * **Yang Li**, Yu Shen, Huaijun Jiang, Wentao Zhang, Jixiang Li, Ji Liu, Ce Zhang, Bin Cui. "[Hyper-Tune: Towards Efficient Hyper-parameter Tuning at Scale](http://arxiv.org/abs/2201.06834)". **VLDB 2022, CCF-A**.
 * **Yang Li**, Yu Shen, Wentao Zhang, Ce Zhang, Bin Cui. "[Efficient End-to-End AutoML via Scalable Search Space Decomposition](https://trebuchet.public.springernature.app/get_content/5b407dd2-7bfb-43c3-a72b-1719a521e6a5)". **VLDB Journal 2022, CCF-A**.
-* Yu Shen, Yupeng Lu, **Yang Li**, Yaofeng Tu, Wentao Zhang, Bin CUI. "[DivBO: Diversity-aware CASH for Ensemble Learning]()". **NeurIPS 2022, CCF-A**
+* Yu Shen, Yupeng Lu, **Yang Li**, Yaofeng Tu, Wentao Zhang, Bin CUI. "[DivBO: Diversity-aware CASH for Ensemble Learning](https://arxiv.org/pdf/2302.03255.pdf)". **NeurIPS 2022, CCF-A**
 * Wentao Zhang, Zeang Sheng, Mingyu Yang, **Yang Li**, Yu Shen, Zhi Yang, Bin Cui. "[NAFS : A Simple yet Tough-to-Beat Baseline for Graph Representation Learning](https://arxiv.org/abs/2206.08583)". **ICML 2022, CCF-A**.
 * Wentao Zhang, Yu Shen, Zheyu Lin, **Yang Li**, Zhi Yang, Bin Cui. "[Deep and Flexible Graph Neural Architecture Search](https://arxiv.org/abs/2206.08582)". **ICML 2022, CCF-A**.
 * Xinyi Zhang, Hong Wu, **Yang Li**, Jian Tan, Feifei Li, Bin Cui. "[Towards Dynamic and Safe Configuration Tuning for Cloud Databases](https://arxiv.org/abs/2203.14473)". **SIGMOD 2022, CCF-A**.
