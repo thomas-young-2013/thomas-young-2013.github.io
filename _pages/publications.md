@@ -8,6 +8,8 @@ permalink: /publications/
 
 # Preprints
 
+* Tianyi Bai, **Yang Li**, Yu Shen, Xinyi Zhang, Wentao Zhang, Bin Cui. "[Transfer Learning for Bayesian Optimization: A Survey
+](https://arxiv.org/abs/2302.05927)", arXiv:2302.05927.
 * Wentao Zhang, Yu Shen, Zheyu Lin, **Yang Li**, Xiaosen Li, Wen Ouyang, Yangyu Tao, Zhi Yang, Bin Cui. "[GMLP: Building Scalable and Flexible Graph Neural Networks with Feature-Message Passing
 ](https://arxiv.org/pdf/2104.09880.pdf)", arXiv:2104.09880.
 
