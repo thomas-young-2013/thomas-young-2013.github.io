@@ -12,7 +12,7 @@ permalink: /publications/
 ](https://arxiv.org/abs/2302.05927)", arXiv:2302.05927.
 * Wentao Zhang, Yu Shen, Zheyu Lin, **Yang Li**, Xiaosen Li, Wen Ouyang, Yangyu Tao, Zhi Yang, Bin Cui. "[GMLP: Building Scalable and Flexible Graph Neural Networks with Feature-Message Passing](https://arxiv.org/pdf/2104.09880.pdf)", arXiv:2104.09880.
 * Yu Shen, Xinyuyang Ren, Yupeng Lu, Huaijun Jiang, Huanyong Xu, Di Peng, **Yang Li**, Wentao Zhang, Bin Cui. "[Rover: An online Spark SQL tuning service via generalized transfer learning](https://arxiv.org/pdf/2302.04046.pdf)", arXiv:2302.04046.
-* Huaijun Jiang*, Yu Shen*, Yang Li*, Wentao Zhang, Ce Zhang, Bin Cui. "[OpenBox: A Python Toolkit for Generalized Black-box Optimization](https://arxiv.org/abs/2304.13339)", arXiv.2304.13339.
+* Huaijun Jiang\*, Yu Shen\*, Yang Li\*, Wentao Zhang, Ce Zhang, Bin Cui. "[OpenBox: A Python Toolkit for Generalized Black-box Optimization](https://arxiv.org/abs/2304.13339)", arXiv.2304.13339.
 
 
 # 2023
