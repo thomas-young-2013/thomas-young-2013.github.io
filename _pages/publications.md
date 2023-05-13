@@ -16,6 +16,7 @@ permalink: /publications/
 
 
 # 2023
+* **Yang Li**, Huaijun Jiang, Yu Shen, yide fang, Xiaofeng Yang, Danqing Huang, Xinyi Zhang, Wentao Zhang, Ce Zhang, Peng Chen, Bin Cui. "[Towards General and Efficient Online Tuning for Spark]()". **VLDB 2023, CCF-A**.
 * Yu Shen, **Yang Li**, Jian Zheng, Wentao Zhang, Peng Yao, Jixiang Li, Sen Yang, Ji Liu, Bin Cui. "[ProxyBO: Accelerating Neural Architecture Search via Bayesian Optimization with Zero-cost Proxies](https://arxiv.org/pdf/2110.10423)". **AAAI 2023, CCF-A**.
 * Xinyi Zhang, Zhuo Chang, HONG WU, **Yang Li**, Jia Chen, Jian Tan, Feifei Li, Bin Cui. "[A Unified and Efficient Coordinating Framework for Autonomous DBMS Tuning](https://arxiv.org/abs/2303.05710)". **SIGMOD 2023, CCF-A**.
 
