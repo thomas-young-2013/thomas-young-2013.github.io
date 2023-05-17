@@ -33,10 +33,10 @@ and (3) **Automatic Machine Learning (AutoML)**: *automatic hyperparameter optim
 Research Fields
 ======
 * AutoML Algorithms, Systems and Applications
-* Reinforcement Learning
 * Methods for Decision Making
-* Black-box optimization Methods
-* Bayesian optimization
+* Black-box Optimization
+* Reinforcement Learning
+* NLP Methods and Applications
 
 Professional Services
 ======
@@ -47,11 +47,10 @@ Professional Services
 
 Awards
 ======
-* Excellent Graduate of Peking University, 2022
 * Best Student Paper Award of WWW 2022 (among 1822 submmisions), 2022
-* Merit Student (Top 10% in Peking University), 2021
-* May Fourth Scholarship (Top 10% in Peking University), 2021
+* Excellent Graduate of Peking University, 2022
+* May Fourth Scholarship (Peking University), 2021
 * Champion of [ACM CIKM AnalyticCup](https://www.cikm2021.org/analyticup), 2021
 * Top Prize (special prize) in the innovation competition at [CCF ChinaSoft](http://chinasoft.ccf.org.cn/introduction.html), 2021
-* Academic Excellence Award (Top 10% in PKU), 2019
-* National Scholarship (The Ministry of Education of the People’s Republic of China, top 1%), 2015
+* Academic Excellence Award (Peking University), 2019
+* National Scholarship (The Ministry of Education of the PRC), 2015
