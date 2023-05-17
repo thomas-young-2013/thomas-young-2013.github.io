@@ -40,9 +40,9 @@ Research Fields
 
 Professional Services
 ======
-* Program committee: SIGKDD 2022, 2023
-* Program committee: ICML 2022
-* Program committee: NeurIPS 2023
+* Program Committee Member: SIGKDD 2022, 2023
+* Program Committee Member: ICML 2022
+* Program Committee Member: NeurIPS 2023
 * Reviewer: Data Science and Engineering 2022
 
 Awards
