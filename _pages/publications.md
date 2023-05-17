@@ -11,7 +11,6 @@ permalink: /publications/
 * Tianyi Bai, **Yang Li**, Yu Shen, Xinyi Zhang, Wentao Zhang, Bin Cui. "[Transfer Learning for Bayesian Optimization: A Survey
 ](https://arxiv.org/abs/2302.05927)", arXiv:2302.05927.
 * Wentao Zhang, Yu Shen, Zheyu Lin, **Yang Li**, Xiaosen Li, Wen Ouyang, Yangyu Tao, Zhi Yang, Bin Cui. "[GMLP: Building Scalable and Flexible Graph Neural Networks with Feature-Message Passing](https://arxiv.org/pdf/2104.09880.pdf)", arXiv:2104.09880.
-* Yu Shen, Xinyuyang Ren, Yupeng Lu, Huaijun Jiang, Huanyong Xu, Di Peng, **Yang Li**, Wentao Zhang, Bin Cui. "[Rover: An online Spark SQL tuning service via generalized transfer learning](https://arxiv.org/pdf/2302.04046.pdf)", arXiv:2302.04046.
 * Huaijun Jiang\*, Yu Shen\*, Yang Li\*, Wentao Zhang, Ce Zhang, Bin Cui. "[OpenBox: A Python Toolkit for Generalized Black-box Optimization](https://arxiv.org/abs/2304.13339)", arXiv.2304.13339.
 
 
@@ -19,6 +18,7 @@ permalink: /publications/
 * **Yang Li**, Huaijun Jiang, Yu Shen, yide fang, Xiaofeng Yang, Danqing Huang, Xinyi Zhang, Wentao Zhang, Ce Zhang, Peng Chen, Bin Cui. "[Towards General and Efficient Online Tuning for Spark]()". **VLDB 2023, CCF-A**.
 * Yu Shen, **Yang Li**, Jian Zheng, Wentao Zhang, Peng Yao, Jixiang Li, Sen Yang, Ji Liu, Bin Cui. "[ProxyBO: Accelerating Neural Architecture Search via Bayesian Optimization with Zero-cost Proxies](https://arxiv.org/pdf/2110.10423)". **AAAI 2023, CCF-A**.
 * Xinyi Zhang, Zhuo Chang, HONG WU, **Yang Li**, Jia Chen, Jian Tan, Feifei Li, Bin Cui. "[A Unified and Efficient Coordinating Framework for Autonomous DBMS Tuning](https://arxiv.org/abs/2303.05710)". **SIGMOD 2023, CCF-A**.
+* Yu Shen, Xinyuyang Ren, Yupeng Lu, Huaijun Jiang, Huanyong Xu, Di Peng, **Yang Li**, Wentao Zhang, Bin Cui. "[Rover: An online Spark SQL tuning service via generalized transfer learning](https://arxiv.org/pdf/2302.04046.pdf)", **SIGKDD 2023, CCF-A**.
 
 
 # 2022
