@@ -10,7 +10,7 @@ redirect_from:
 
 **Bio.** I am a senior researcher & engineer in the department of data platform, TEG, Tencent inc. 
 I obtained my Ph.D. degree in Computer Science from Peking University in June 2022, advised by [Prof. Bin Cui](https://cuibinpku.github.io/). 
-And I spent one wonderful semester at ETH Zurich in 2019, working with [Prof. Ce Zhang](https://ds3lab.inf.ethz.ch/members/ce-zhang.html).
+And I spent one wonderful semester at ETH Zurich in 2019, working with [Prof. Ce Zhang](https://zhangce.github.io/).
 I have published 20+ papers in the top database (SIGMOD, VLDB), data mining (KDD, WWW) and artificial intelligence (ICML, NeurIPS, AAAI) venues.
 Besides, I am the designer of several system projects, including [OpenBox](https://github.com/PKU-DAIR/open-box), [MindWare](https://github.com/PKU-DAIR/mindware) and [HyperTune](https://github.com/PKU-DAIR/HyperTune). 
 My research work is recognized by multiple prestigious awards, including the best student paper at WWW 2022, May Fourth Scholarship at Peking University 2021.
