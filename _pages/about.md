@@ -36,8 +36,7 @@ Research Fields
 * Methods for Decision Making
 * Black-box Optimization
 * Reinforcement Learning
-* NLP techniques: LLM
-
+* Natural Language Processing and its Applications
 
 Professional Services
 ======
