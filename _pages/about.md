@@ -13,7 +13,7 @@ I obtained my Ph.D. degree in Computer Science from Peking University in June 20
 And I spent one wonderful semester at ETH Zurich in 2019, working with [Prof. Ce Zhang](https://zhangce.github.io/).
 I have published 20+ papers in the top database (SIGMOD, VLDB), data mining (KDD, WWW) and artificial intelligence (ICML, NeurIPS, AAAI) venues.
 Besides, I am the designer of several system projects, including [OpenBox](https://github.com/PKU-DAIR/open-box), [MindWare](https://github.com/PKU-DAIR/mindware) and [HyperTune](https://github.com/PKU-DAIR/HyperTune). 
-My research work is recognized by multiple prestigious awards, including the best student paper at WWW 2022, May Fourth Scholarship at Peking University 2021.
+My research work is recognized by multiple prestigious awards, including the best student paper award at WWW 2022 and the doctoral dissertation award of ACM Beijing.
 
 **Research Interests.**
 I have a special focus on building automatic machine learning systems to support machine learning and help facilitate data science.
