@@ -49,7 +49,8 @@ Professional Services
 
 Awards
 ======
-* Best Student Paper Award of WWW 2022 (among 1822 submmisions), 2022
+* ACM Beijing Doctoral Dissertation Award, 2023
+* Best Student Paper Award of WWW 2022 (among 1822 submmisions, CCF-A), 2022
 * Excellent Graduate of Peking University, 2022
 * May Fourth Scholarship (Peking University), 2021
 * Champion of [ACM CIKM AnalyticCup](https://www.cikm2021.org/analyticup), 2021
