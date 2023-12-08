@@ -15,11 +15,12 @@ permalink: /publications/
 
 
 # 2023
-* **Yang Li**, Huaijun Jiang, Yu Shen, yide fang, Xiaofeng Yang, Danqing Huang, Xinyi Zhang, Wentao Zhang, Ce Zhang, Peng Chen, Bin Cui. "[Towards General and Efficient Online Tuning for Spark]()". **VLDB 2023, CCF-A**.
+* **Yang Li**, Huaijun Jiang, Yu Shen, Yide Fang, Xiaofeng Yang, Danqing Huang, Xinyi Zhang, Wentao Zhang, Ce Zhang, Peng Chen, Bin Cui. "[Towards General and Efficient Online Tuning for Spark]()". **VLDB 2023, CCF-A**.
 * Yu Shen, **Yang Li**, Jian Zheng, Wentao Zhang, Peng Yao, Jixiang Li, Sen Yang, Ji Liu, Bin Cui. "[ProxyBO: Accelerating Neural Architecture Search via Bayesian Optimization with Zero-cost Proxies](https://arxiv.org/pdf/2110.10423)". **AAAI 2023, CCF-A**.
 * Xinyi Zhang, HONG WU, **Yang Li**, Zhengju Tang, Jian Tan, Feifei Li, Bin Cui. "[An Efficient Transfer Learning Based Configuration Adviser for Database Tuning]()". **VLDB 2023, CCF-A**.
 * Xinyi Zhang, Zhuo Chang, HONG WU, **Yang Li**, Jia Chen, Jian Tan, Feifei Li, Bin Cui. "[A Unified and Efficient Coordinating Framework for Autonomous DBMS Tuning](https://arxiv.org/abs/2303.05710)". **SIGMOD 2023, CCF-A**.
 * Yu Shen, Xinyuyang Ren, Yupeng Lu, Huaijun Jiang, Huanyong Xu, Di Peng, **Yang Li**, Wentao Zhang, Bin Cui. "[Rover: An online Spark SQL tuning service via generalized transfer learning](https://arxiv.org/pdf/2302.04046.pdf)", **SIGKDD 2023, CCF-A**.
+* Wentao Zhang, YeXin Wang, Zhenbang You, **Yang Li**, Gang Cao, Zhi Yang, Bin Cui. "[NC-ALG: Graph-based Active Learning under Noisy Crowd]()", **ICDE 2024, CCF-A**.
 
 
 # 2022
