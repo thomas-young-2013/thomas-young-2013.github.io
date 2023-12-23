@@ -42,7 +42,7 @@ Professional Services
 ======
 * Reviewer: ICLR 2024
 * Program Committee Member: SIGKDD 2022, 2023
-* Program Committee Member: ICML 2022
+* Reviewer: ICML 2022, 2024
 * Program Committee Member: NeurIPS 2023
 * Reviewer: Data Science and Engineering 2022
 
