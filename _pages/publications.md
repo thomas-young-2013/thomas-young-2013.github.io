@@ -14,6 +14,11 @@ permalink: /publications/
 * Huaijun Jiang\*, Yu Shen\*, Yang Li\*, Wentao Zhang, Ce Zhang, Bin Cui. "[OpenBox: A Python Toolkit for Generalized Black-box Optimization](https://arxiv.org/abs/2304.13339)", arXiv.2304.13339.
 
 
+# 2024
+* Zhuo Chang, Xinyi Zhang, **Yang Li**, Xupeng Miao, Yanzhao Qin, Bin Cui. "[MFIX: An Efficient and Reliable Index Advisor via Multi-Fidelity Bayesian Optimization]()". **ICDE 2024, CCF-A**.
+* Ziming Li, Youhuan Li, Xinhuan Chen, Lei Zou, **Yang Li**, Xiaofeng Yang, Hongbo Jiang. "[NewSP: A New Search Process for Continuous Subgraph Matching over Dynamic Graphs]()". **ICDE 2024, CCF-A**.
+
+
 # 2023
 * **Yang Li**, Huaijun Jiang, Yu Shen, Yide Fang, Xiaofeng Yang, Danqing Huang, Xinyi Zhang, Wentao Zhang, Ce Zhang, Peng Chen, Bin Cui. "[Towards General and Efficient Online Tuning for Spark]()". **VLDB 2023, CCF-A**.
 * Yu Shen, **Yang Li**, Jian Zheng, Wentao Zhang, Peng Yao, Jixiang Li, Sen Yang, Ji Liu, Bin Cui. "[ProxyBO: Accelerating Neural Architecture Search via Bayesian Optimization with Zero-cost Proxies](https://arxiv.org/pdf/2110.10423)". **AAAI 2023, CCF-A**.
