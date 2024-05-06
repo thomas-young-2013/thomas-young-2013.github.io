@@ -11,10 +11,10 @@ permalink: /publications/
 * Tianyi Bai, **Yang Li**, Yu Shen, Xinyi Zhang, Wentao Zhang, Bin Cui. "[Transfer Learning for Bayesian Optimization: A Survey
 ](https://arxiv.org/abs/2302.05927)", arXiv:2302.05927.
 * Wentao Zhang, Yu Shen, Zheyu Lin, **Yang Li**, Xiaosen Li, Wen Ouyang, Yangyu Tao, Zhi Yang, Bin Cui. "[GMLP: Building Scalable and Flexible Graph Neural Networks with Feature-Message Passing](https://arxiv.org/pdf/2104.09880.pdf)", arXiv:2104.09880.
-* Huaijun Jiang\*, Yu Shen\*, Yang Li\*, Wentao Zhang, Ce Zhang, Bin Cui. "[OpenBox: A Python Toolkit for Generalized Black-box Optimization](https://arxiv.org/abs/2304.13339)", arXiv.2304.13339.
 
 
 # 2024
+* Huaijun Jiang\*, Yu Shen\*, Yang Li\*, Wentao Zhang, Ce Zhang, Bin Cui. "[OpenBox: A Python Toolkit for Generalized Black-box Optimization](https://arxiv.org/abs/2304.13339)". **JMLR 2024, CCF-A**.
 * Zhuo Chang, Xinyi Zhang, **Yang Li**, Xupeng Miao, Yanzhao Qin, Bin Cui. "[MFIX: An Efficient and Reliable Index Advisor via Multi-Fidelity Bayesian Optimization]()". **ICDE 2024, CCF-A**.
 * Ziming Li, Youhuan Li, Xinhuan Chen, Lei Zou, **Yang Li**, Xiaofeng Yang, Hongbo Jiang. "[NewSP: A New Search Process for Continuous Subgraph Matching over Dynamic Graphs]()". **ICDE 2024, CCF-A**.
 
