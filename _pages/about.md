@@ -17,9 +17,9 @@ My research work is recognized by multiple prestigious awards, including the bes
 
 **Research Interests.**
 I have a special focus on building next-gen autonomous solutions/systems to support machine learning and help facilitate data science.
-My research interests include (1) **AI for Big Data**: *synergistic optimization between big data and artificial intelligence*,
-(2) **Black-box Optimization**: *automatic tuning, such as knobs tuning in database system, config tuning in big data system, resource optimization and experiment design*, 
-(3) **Automatic Machine Learning (AutoML)**: *automatic hyperparameter optimization, adaptive model selection, pipeline search, and neural architecture search*,
+My research interests include (1) **AI for Big Data**: *generative data analysis, augmented analysis, NLQ, automatic data annotation & synthesis, synergistic optimization between big data and artificial intelligence*,
+(2) **Black-box Optimization**: *automatic tuning, such as config tuning in big data system, resource optimization and experiment design*, 
+(3) **Citizen Data Science (AutoDS/AutoML)**: *automatic hyperparameter optimization, adaptive model selection, pipeline search, neural architecture search, and model & data interpretability*
 and (4) **LLM-driven decision making**: *agentic AI methods*.
 
 **Email**: liyang.cs@pku.edu.cn
@@ -32,12 +32,12 @@ and (4) **LLM-driven decision making**: *agentic AI methods*.
 
 Research Fields
 ======
-* AutoML Algorithms, Systems and Applications
+* AutoML
 * Methods for Decision Making
 * Black-box Optimization
 * Reinforcement Learning
-* Natural Language Processing and its Applications
-* Agentic AI
+* Natural Language Processing、LLM and Agentic AI
+* AI for Data/ System
 
 Professional Services
 ======
