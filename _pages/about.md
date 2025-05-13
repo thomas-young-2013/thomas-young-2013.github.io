@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Bio.** I am a senior researcher & Team Lead (AI for Big Data) in the department of data platform, TEG, Tencent inc. 
+**Bio.** I am a senior researcher & Team Lead (AI for Infra) in the department of ML platform, TEG, Tencent inc. 
 I obtained my Ph.D. degree in Computer Science from Peking University in June 2022, advised by [Prof. Bin Cui](https://cuibinpku.github.io/). 
 And I spent one wonderful semester at ETH Zurich in 2019, working with [Prof. Ce Zhang](https://zhangce.github.io/).
 I have published 30+ papers in the top database (SIGMOD, VLDB), data mining (KDD, WWW) and artificial intelligence (ICML, NeurIPS, AAAI) venues.
@@ -17,9 +17,9 @@ My research work is recognized by multiple prestigious awards, including the bes
 
 **Research Interests.**
 I have a special focus on building next-gen autonomous solutions/systems to support machine learning and help facilitate data science.
-My research interests include (1) **AI for Big Data**: *generative data analysis, augmented analysis, NLQ, automatic data annotation & synthesis, synergistic optimization between big data and artificial intelligence*,
+My research interests include (1) **AI for Data Infra**: *generative data analysis, augmented analysis, automatic data annotation & synthesis, synergistic optimization between big data and artificial intelligence*,
 (2) **Black-box Optimization**: *automatic tuning, such as config tuning in big data system, resource optimization and experiment design*, 
-(3) **Citizen Data Science (AutoDS/AutoML)**: *automatic hyperparameter optimization, adaptive model selection, pipeline search, neural architecture search, and model & data interpretability*
+(3) **Citizen Data Science (AutoML)**: *automatic hyperparameter optimization, adaptive model selection, pipeline search, neural architecture search, and model & data interpretability*
 and (4) **LLM-driven decision making**: *agentic AI methods*.
 
 **Email**: liyang.cs@pku.edu.cn
@@ -32,12 +32,12 @@ and (4) **LLM-driven decision making**: *agentic AI methods*.
 
 Research Fields
 ======
-* AutoML
+* AI for System / Infra
 * Methods for Decision Making
 * Black-box Optimization
 * Reinforcement Learning
 * Natural Language Processing、LLM and Agentic AI
-* AI for Data/ System
+* AutoML
 
 Professional Services
 ======
