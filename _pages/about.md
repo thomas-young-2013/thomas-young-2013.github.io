@@ -17,7 +17,7 @@ My research work is recognized by multiple prestigious awards, including the bes
 
 **Research Interests.**
 I have a special focus on building next-gen autonomous solutions/systems to support machine learning and help facilitate data science.
-My research interests include (1) **AI for Data Infra**: *generative data analysis, augmented analysis, automatic data annotation & synthesis, synergistic optimization between big data and artificial intelligence*,
+My research interests include (1) **AI for Data&ML Infra**: *generative data analysis, augmented analysis, automatic data annotation & synthesis, synergistic optimization between big data and artificial intelligence*,
 (2) **Black-box Optimization**: *automatic tuning, such as config tuning in big data system, resource optimization and experiment design*, 
 (3) **Citizen Data Science (AutoML)**: *automatic hyperparameter optimization, adaptive model selection, pipeline search, neural architecture search, and model & data interpretability*
 and (4) **LLM-driven decision making**: *agentic AI methods*.
