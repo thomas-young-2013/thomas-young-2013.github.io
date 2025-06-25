@@ -12,6 +12,10 @@ permalink: /publications/
 ](https://arxiv.org/abs/2302.05927)", arXiv:2302.05927.
 * Wentao Zhang, Yu Shen, Zheyu Lin, **Yang Li**, Xiaosen Li, Wen Ouyang, Yangyu Tao, Zhi Yang, Bin Cui. "[GMLP: Building Scalable and Flexible Graph Neural Networks with Feature-Message Passing](https://arxiv.org/pdf/2104.09880.pdf)", arXiv:2104.09880.
 
+# 2025
+* Zihao Chen, Jiazhi Jiang, Jiangang Liu, Chao Zhang, Yuqi Diao, **Yang Li**, Hanmei Luo, Peng Chen. "[Oceanus: Enable SLO-Aware Vertical Autoscaling for Cloud-Native Streaming Services in Tencent](https://dl.acm.org/doi/abs/10.1145/3722212.3724445)". **SIGMOD 2025, CCF-A**.
+* Jie Jiang, Haining Xie, Yu Shen, Zihan Zhang, Meng Lei, Yifeng Zheng, Yide Fang, Chunyou Li, Danqing Huang, Wentao Zhang, **Yang Li**, Xiaofeng Yang, Bin Cui, Peng Chen. "[SiriusBI: Building End-to-End Business Intelligence Enhanced by Large Language Models](https://arxiv.org/abs/2411.06102)". **VLDB 2025, CCF-A**.
+
 
 # 2024
 * Huaijun Jiang\*, Yu Shen\*, Yang Li\*, Wentao Zhang, Ce Zhang, Bin Cui. "[OpenBox: A Python Toolkit for Generalized Black-box Optimization](https://arxiv.org/abs/2304.13339)". **JMLR 2024, CCF-A**.
